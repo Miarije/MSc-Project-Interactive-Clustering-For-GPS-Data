@@ -1,13 +1,13 @@
-Interactive Clustering and Analysis Tool for GPS data
+# Interactive Clustering and Analysis Tool for GPS data
 
 This tool was created as part of my MSc Thesis project in 2023 in which I designed and used an interactive clustering method to analyze oystercatcher data. It is tailed to my specific methods, data and needs during this project but it could certainly be useful for others too. I have tried to make it as flexible and robust as I reasonably could when developing it, but ultimately it was not possible to extensively test everything beyond my own project. I cannot guarantee that the code is 100% free of errors, bugs, mistakes or any other unintentional issues that may sneak in. As such, I'm not responsible for any issues that can result from the use of this tool.
 
-INSTALLATION INSTRUCTIONS
+## INSTALLATION INSTRUCTIONS
 1. Create a virtual environment (not required but recommended)
 2. Install the packages listed in requirements.txt
 3. In the virtual environment, run run.py to start the tool
 
-HOW TO USE THE TOOL
+## HOW TO USE THE TOOL
 1. Preprocessing/preparation
 Before a data set can be clustered, it needs to be 'added' to the tool, which will save a few variables in the database which makes it considerably easier to plot the data each time.
 There are two options:
@@ -30,7 +30,7 @@ A saved clustering can be edited in a few ways.
 	2. Change a cluster's name 
 	3. Continue interactive clustering from this data
 
-LICENSE THINGS
+## LICENSE THINGS
 Using is ok
 Improving is ok
 Claiming the tool is your own is not ok
