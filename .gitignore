@@ -1,2 +1,5 @@
 .venv
 code/__pycache__
+individuals
+plots
+maps
