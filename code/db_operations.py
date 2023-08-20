@@ -13,8 +13,8 @@ db_path = "database/individual_data.db"
 connect = sqlite3.connect(db_path)
 cursor = connect.cursor()
 
-cursor.execute('SELECT * FROM cluster_data WHERE animal_id=?', ('5506092',))
-#cursor.execute('DELETE FROM indv_data WHERE animal_id=?', ('5519114',))
+#cursor.execute('SELECT * FROM cluster_data WHERE animal_id=?', ('5506092',))
+cursor.execute('DELETE FROM cluster_data')
 result = cursor.fetchall()
 for entry in result:
     print(entry)

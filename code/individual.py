@@ -52,10 +52,10 @@ class Individual:
     for entry in cluster_names:
       if ('club' in entry or 'sea' in entry or 'lake' in entry or 'river' in entry or 'water' in entry or 'coast' in entry or 'harbor' in entry) and len(colors_club) > 0:
         colors = colors_club
-      elif ('fields' in entry or 'field' in entry) and len(colors_secondary) > 0:
-        colors = colors_secondary
       elif 'territory' in entry and len(colors_territory) > 0:
         colors = colors_territory
+      elif ('fields' in entry or 'field' in entry) and len(colors_secondary) > 0:
+        colors = colors_secondary
       else:
         colors = colors_other
 
