@@ -1,4 +1,4 @@
-# Interactive Clustering and Analysis Tool for GPS data
+Interactive Clustering and Analysis Tool for GPS data
 
 This tool was created as part of my MSc Thesis project in 2023 in which I designed and used an interactive clustering method to analyze oystercatcher data. It is tailed to my specific methods, data and needs during this project but it could certainly be useful for others too. I have tried to make it as flexible and robust as I reasonably could when developing it, but ultimately it was not possible to extensively test everything beyond my own project. I cannot guarantee that the code is 100% free of errors, bugs, mistakes or any other unintentional issues that may sneak in. As such, I'm not responsible for any issues that can result from the use of this tool.
 
