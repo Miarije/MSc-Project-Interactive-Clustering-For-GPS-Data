@@ -2,6 +2,8 @@
 
 This tool was created as part of my MSc Thesis project in 2023 in which I designed and used an interactive clustering method to analyze oystercatcher data. It is tailed to my specific methods, data and needs during this project but it could certainly be useful for others too. I have tried to make it as flexible and robust as I reasonably could when developing it, but ultimately it was not possible to extensively test everything beyond my own project. I cannot guarantee that the code is 100% free of errors, bugs, mistakes or any other unintentional issues that may sneak in. As such, I'm not responsible for any issues that can result from the use of this tool.
 
+You may use this tool for personal use or research purposes as well as make modifications and improvements on top of the existing tool, such as improving the clustering method or adding other analysis methods. Please do give me credit for the (original) tool. Do not sell the code provided here. See license.txt for the specific license.
+
 ## INSTALLATION INSTRUCTIONS
 1. Create a virtual environment (not required but recommended)
 2. Install the packages listed in requirements.txt
