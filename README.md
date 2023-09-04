@@ -2,7 +2,7 @@
 
 This tool was created as part of my MSc Thesis project in 2023 in which I designed and used an interactive clustering method to analyze oystercatcher data. It is tailed to my specific methods, data and needs during this project but it could certainly be useful for others too. I have tried to make it as flexible and robust as I reasonably could when developing it, but ultimately it was not possible to extensively test everything beyond my own project. I cannot guarantee that the code is 100% free of errors, bugs, mistakes or any other unintentional issues that may sneak in. As such, I'm not responsible for any issues that can result from the use of this tool.
 
-You may use this tool for personal use or research purposes as well as make modifications and improvements on top of the existing tool, such as improving the clustering method or adding other analysis methods. Please do give me credit for the (original) tool. Do not sell the code provided here. See license.txt for the specific license.
+You may use this tool for personal use or research purposes as well as make modifications and improvements on top of the existing tool, such as improving the clustering method or adding other analysis methods. Please do give me credit for the (original) tool. Do not sell the code provided here or distribute it without credit to the original.
 
 I do not plan to continue working on the tool and am leaving it here so it may be used by others who find it useful, either in its current state or by adding to it.
 In case of issues regarding the use of the tool specifically (NOT general 'how to' Python questions), such as errors when using the tool as intended, you can email me at marije349@outlook.com and I will try to help if you clearly describe the issue.
